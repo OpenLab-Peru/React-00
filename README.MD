@@ -2,6 +2,4 @@
 
 Primera sesión de ReactJS con 
 
-Colaborador: 
-
--joshDev1205 [example](https://github.com/joshDev1205/ "Title")
+Colaborador1:  [joshDev1205](https://github.com/joshDev1205/ "Colaborador")
