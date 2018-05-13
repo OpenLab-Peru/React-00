@@ -1,4 +1,4 @@
-#Primer Taller OpenLab
+## Primer Taller OpenLab
 
 Primera sesión de ReactJS con 
 
