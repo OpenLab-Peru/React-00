@@ -10,7 +10,8 @@ Colaborador:  [joshDev1205](https://github.com/joshDev1205/ "Colaborador")
 - npm i -D parcel-bundler babel-preset-env babel-preset-react
 - Crear un archivo HTML y crear un elemento con un ID "app" 
 - Crear un archivo index.js y escribir el siguiente código 
-`import React from 'react'
+```javascript
+import React from 'react'
 import {render} from 'react-dom'
 
 class App extends React.Component{
@@ -21,6 +22,8 @@ class App extends React.Component{
 
 const mount = document.querySelector('#app')
 
-render(<App/>, mount)`
+render(<App/>, mount)
+```
+
 - Terminar agregando la linea ` "dev": "parcel index.html", ` en "scripts" dentro del package.json
 - Terminar con la linea: npm run dev
