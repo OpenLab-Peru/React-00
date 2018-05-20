@@ -8,7 +8,12 @@ Colaborador:  [joshDev1205](https://github.com/joshDev1205/ "Colaborador")
 - npm init
 - npm i react react-dom -S
 - npm i -D parcel-bundler babel-preset-env babel-preset-react
-- Crear un archivo HTML y crear un elemento con un ID "app" 
+- Crear un archivo HTML  `index.html ` y crear un elemento con un ID "app"  ejemplo:
+```html
+<div id="app">
+    <h1>Hola Mundo</h1>
+</div>
+```
 - Crear un archivo index.js y escribir el siguiente código 
 ```javascript
 import React from 'react'
